@@ -3,7 +3,15 @@ This project introduces a method to extract skeleton from RGB synthesized branch
 
 ## Video demo
 A quick video demo of the algorithm can be [found here](https://youtu.be/cq_7MVMzZ90).
-  
+
+
+## point cloud data pre-processing video demo
+1. [orchard segmentation](https://www.youtube.com/embed/I48e63mNP0Y)
+
+2. [tree segmentation](https://www.youtube.com/embed/KqyYVsdYSZg)
+
+
+
 ## Restrictions
 - This procedure runs in win_x64.
 - Currently, only ASCII encoded .ply file is supported, you can use other tools to convert point cloud formats, such as [CloudCompare](https://github.com/CloudCompare/CloudCompare).
@@ -11,5 +19,5 @@ A quick video demo of the algorithm can be [found here](https://youtu.be/cq_7MVM
 - The branch point cloud size should be less than 20k points.
 - The branch point cloud needs to be claer and its shape should be radial.
 
-## Data avaible
+## Data and software avaible
 You can obtain the sample point cloud data from the [link]().
