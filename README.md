@@ -1,5 +1,7 @@
-# Branch2Skeleton
-This project introduces a method to extract skeleton from RGB synthesized branch point cloud. You can use this procedure to extract skeleton from point cloud, and obtain the procedure from the [link]().
+# EasySkeleton
+This is an implementation of submitted paper:
+Wenli Zhang, Xinyu Peng, Guoqiang Cui, Haozhou Wang, Daisuke Takata and Wei Guo, "Tree Branch Skeleton Extraction from Drone-Based Photogrammetric Point Cloud", Drones, vol. 2023,. 
+This paper introduces a method to extract skeleton from RGB synthesized branch point cloud. You can use this procedure to extract skeleton from point cloud, and obtain the procedure from the [link]().
 
 ## Video demo
 A quick video demo of the algorithm can be [found here](https://youtu.be/cq_7MVMzZ90).
