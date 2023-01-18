@@ -1,7 +1,8 @@
 # EasySkeleton
 This is an implementation of submitted paper:  
-Wenli Zhang, Xinyu Peng, Guoqiang Cui, Haozhou Wang, Daisuke Takata and Wei Guo, "Tree Branch Skeleton Extraction from Drone-Based Photogrammetric Point Cloud", Drones, vol. 2023,.  
-This paper introduces a method to extract skeleton from RGB synthesized branch point cloud. You can use this procedure to extract skeleton from point cloud, and obtain the procedure from the [link]().
+Zhang, W.; Peng, X.; Cui, G.; Wang, H.; Takata, D.; Guo, W. Tree Branch Skeleton Extraction from Drone-Based Photogrammetric Point Cloud. Drones 2023, 7, 65. https://doi.org/10.3390/drones7020065
+ 
+This paper introduces a method to extract skeleton from RGB synthesized branch point cloud. You can use this procedure to extract skeleton from point cloud.
 
 ## Video demo
 A quick video demo of the algorithm can be [found here](https://youtu.be/cq_7MVMzZ90).
@@ -22,4 +23,4 @@ A quick video demo of the algorithm can be [found here](https://youtu.be/cq_7MVM
 - The branch point cloud needs to be claer and its shape should be radial.
 
 ## Data and software avaible
-You can obtain the sample point cloud data from the [link]().
+You can obtain the sample point cloud data from the [link](https://forms.gle/m6wcf3EQmfCdcZ3D8).
