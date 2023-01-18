@@ -24,3 +24,7 @@ A quick video demo of the algorithm can be [found here](https://youtu.be/cq_7MVM
 
 ## Data and software avaible
 You can obtain the sample point cloud data from the [link](https://forms.gle/m6wcf3EQmfCdcZ3D8).
+
+## Instructions
+### Acquisition protocol
+This procedure and related data have been described in detail in the paper: "Zhang W, Peng X, Cui G, Wang H, Takata D, Guo W. Tree Branch Skeleton Extraction from Drone-Based Photogrammetric Point Cloud. Drones. 2023; 7(2):65. https://<span></span>doi.org/10.3390/drones7020065 ”(https://www.mdpi.com/2504-446X/7/2/65). If you use this program and related data in your research, please cite this paper.
